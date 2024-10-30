@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-03-07 13:26+0100\n"
+"PO-Revision-Date: 2024-03-07 13:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ing-ksiegowosc-admin-ingk-invoice-list-table.php:91
+msgid "Invoice was not created"
+msgstr "Faktura nie została utworzona"
+
+#: admin/class-ing-ksiegowosc-admin-ingk-invoice-list-table.php:184
+msgid "ID"
+msgstr "ID"
+
+#: admin/class-ing-ksiegowosc-admin-ingk-invoice-list-table.php:185
+msgid "Order ID"
+msgstr "Identyfikator zamówienia"
+
+#: admin/class-ing-ksiegowosc-admin-ingk-invoice-list-table.php:186
+msgid "Invoice ID"
+msgstr "Identyfikator faktury"
+
+#: admin/class-ing-ksiegowosc-admin-ingk-invoice-list-table.php:187
+msgid "Created"
+msgstr "Data utworzenia"
+
+#: admin/class-ing-ksiegowosc-admin-ingk-invoice-list-table.php:188
+msgid "Modified"
+msgstr "Data modyfikacji"
+
+#: admin/class-ing-ksiegowosc-admin-ingk-invoice-list-table.php:205
+msgid "No data"
+msgstr "Brak danych"
+
+#: admin/class-ing-ksiegowosc-admin.php:260
+#: admin/class-ing-ksiegowosc-admin.php:298
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: admin/class-ing-ksiegowosc-admin.php:273
+#: admin/partials/ing-ksiegowosc-admin-settings-display.php:15
+msgid "ING Księgowość"
+msgstr "ING Księgowość"
+
+#: admin/class-ing-ksiegowosc-admin.php:284
+msgid "Review invoices"
+msgstr "Przeglądaj faktury"
+
+#: admin/class-ing-ksiegowosc-admin.php:343
+msgid ""
+"There was an error adding this setting. Please try again. If this persists, "
+"shoot us an email."
+msgstr ""
+"Wystąpił błąd podczas dodawania tego ustawienia. Spróbuj ponownie. Jeśli "
+"problem będzie się powtarzał, napisz do nas."
+
+#: admin/class-ing-ksiegowosc-admin.php:376
+msgid "API key"
+msgstr "Klucz API"
+
+#: admin/class-ing-ksiegowosc-admin.php:379
+msgid ""
+"Paste here an API Key from ING Księgowość. After logging in, go to the Data "
+"& Settings tab > Integrations > API Key."
+msgstr ""
+"Wklej do tego pola klucz API z ING Księgowość. Po zalogowaniu przejdź do "
+"zakładki Dane i ustawienia > Integracje > Klucz API."
+
+#: admin/class-ing-ksiegowosc-admin.php:383
+msgid "Tax option name"
+msgstr "Meta dla pola z NIP"
+
+#: admin/class-ing-ksiegowosc-admin.php:386
+msgid ""
+"If companies buy from you, they must receive an invoice for this along with "
+"the buyer's VAT number. Install the Flexible Checkout plugin – in its "
+"settings you will find the value that needs to be pasted into this field. "
+"Usually, this is \"_billing_vat_number\". Please note that if you do not do "
+"this, your business customers will not be able to provide their tax "
+"identification number (NIP) during the purchase process."
+msgstr ""
+"Jeżeli kupują od Ciebie firmy, muszą otrzymać za to fakturę wraz z numerem "
+"NIP kupującego. Zainstaluj wtyczkę Flexible Checkout – w jej ustawieniach "
+"znajdziesz wartość, którą należy wkleić do tego pola. Zazwyczaj jest to "
+"\"_billing_vat_number\". Uwaga – jeśli tego nie zrobisz, klienci firmowi nie "
+"będą mogli podać swojego NIP w trakcie zakupu."
+
+#: admin/partials/ing-ksiegowosc-admin-display.php:14
+msgid "List of all invoices"
+msgstr "Lista wszystkich faktur"
+
+#: admin/partials/ing-ksiegowosc-admin-display.php:16
+msgid ""
+"Here you will find all documents confirming the sale that have been "
+"automatically issued in ING Księgowość"
+msgstr ""
+"Znajdują się tutaj wszystkie dokumenty poświadczające sprzedaż, które "
+"zostały automatycznie wystawione w ING Księgowość"
+
+#: admin/partials/ing-ksiegowosc-admin-display.php:25
+msgid "Search invoice"
+msgstr "Wyszukaj fakturę"
+
+#: admin/partials/ing-ksiegowosc-admin-settings-display.php:17
+msgid "Configure module"
+msgstr "Skonfiguruj moduł"
